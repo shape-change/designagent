@@ -1,6 +1,6 @@
 # Design Agent
 
-**A suite of nine adversarial thinking tools for Claude — built for designers,
+**A suite of adversarial thinking tools for Claude — built for designers,
 consultants, researchers, and product teams who need to think more rigorously
 before they commit.**
 
@@ -22,7 +22,9 @@ If you use them and want to talk — or want someone in the room when it matters
 
 ## Why I made these
 
-Good strategy fails for predictable reasons. Wrong framing. Symptoms mistaken for causes. Organisations that weren't ready. Metrics that got gamed. These tools find those failure points before they cost you.
+Have you ever worked on a project that fell apart because the foundation was shaky from day one? Humans are really good at solving symptoms instead of causes, mostly because we’re often too polite to admit when a "must-have" feature is actually a distraction or when the problem we're solving doesn't actually exist.
+
+Last winter, I was looking at this as a full platform with a subscription service, but with the rate of change in AI, that felt like the wrong move. Instead, I’ve re-built them as Claude Skills. You install them once, and they’re there to stress-test your thinking while you’re mid-conversation or just about to get started on a project.
 
 ---
 
@@ -204,7 +206,7 @@ Hypothetical inputs produce speculative outputs. The more specific
 and honest the input, the more useful the analysis. Don't sanitise
 the context before sharing it.
 
-**The confidence score matters.**
+**The confidence score.**
 Every tool returns a confidence score with plain-language reasoning.
 A score below 0.6 means the analysis is speculative — useful as a
 hypothesis, not as a basis for significant decisions. Low confidence
