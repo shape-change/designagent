@@ -1,7 +1,6 @@
 # Design Agent
 
-**A suite of adversarial thinking tools for Claude — built for designers,
-consultants, researchers, and product teams who need to think more rigorously
+**A suite of adversarial thinking tools for Claude — built for teams who need to do more
 before they commit.**
 
 Each tool is a Claude skill: install it once, use it in any conversation.
@@ -16,7 +15,7 @@ Shape & Change works across service design, organisational change, and product s
 These tools grew out of a platform we were building. Giving them away turned out to be a better idea.
 If you use them and want to talk — or want someone in the room when it matters — shapechange.io
 
-**[shapechange.io](https://shapechange.io)** — consulting work and contact
+**[shapechange.io](https://shapechange.io)** — talk to me about work and say hello
 
 ---
 
