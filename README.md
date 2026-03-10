@@ -11,7 +11,7 @@ No platform. No subscription. No login. Just better thinking.
 
 ## About
 
-Shape & Chang works across service design, organisational change, and product strategy.
+Shape & Change works across service design, organisational change, and product strategy.
 
 These tools grew out of a platform we were building. Giving them away turned out to be a better idea.
 If you use them and want to talk — or want someone in the room when it matters — shapechange.io
