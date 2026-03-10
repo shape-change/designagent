@@ -1,4 +1,4 @@
-# Pressure Tools
+# Design Agent
 
 **A suite of nine adversarial thinking tools for Claude — built for design
 consultants, researchers, and product teams who need to think more rigorously
