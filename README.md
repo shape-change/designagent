@@ -9,7 +9,7 @@ No platform. No subscription. No login. Just better thinking.
 
 ---
 
-## Why these tools exist
+## Why I made these
 
 Most strategic problems aren't solved badly because teams lack intelligence
 or effort. They're solved badly because the framing was wrong, the symptoms
