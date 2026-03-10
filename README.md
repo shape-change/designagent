@@ -1,6 +1,6 @@
 # Design Agent
 
-**A suite of nine adversarial thinking tools for Claude — built for design
+**A suite of nine adversarial thinking tools for Claude — built for designers,
 consultants, researchers, and product teams who need to think more rigorously
 before they commit.**
 
@@ -9,19 +9,20 @@ No platform. No subscription. No login. Just better thinking.
 
 ---
 
+## About
+
+Shape & Chang works across service design, organisational change, and product strategy.
+
+These tools grew out of a platform we were building. Giving them away turned out to be a better idea.
+If you use them and want to talk — or want someone in the room when it matters — shapechange.io
+
+**[shapechange.io](https://shapechange.io)** — consulting work and contact
+
+---
+
 ## Why I made these
 
-Most strategic problems aren't solved badly because teams lack intelligence
-or effort. They're solved badly because the framing was wrong, the symptoms
-were mistaken for causes, the organisation was never ready to absorb the
-change, or the metrics were measuring the wrong thing from the start.
-
-These tools are designed to surface those failures early — when changing
-course is cheap — rather than after significant investment has been made
-in the wrong direction.
-
-They are adversarial by design. Each one is built to ask the questions that
-comfortable conversations avoid.
+Good strategy fails for predictable reasons. Wrong framing. Symptoms mistaken for causes. Organisations that weren't ready. Metrics that got gamed. These tools find those failure points before they cost you.
 
 ---
 
@@ -247,22 +248,6 @@ the quick-reference guide below to choose the right entry point.
 | Pre-plan cuts before the deadline pressure hits | Escape Valve Finder |
 | Check whether your metrics will be gamed | Metric Danger Detector |
 | Choose the right measurement approach | Measurement Mode Selector |
-
----
-
-## About
-
-These tools were built by Shape & Change.
-
-They grew out of a platform I was building and the realisation that
-giving them away would create more value than putting them behind a paywall.
-Every person who finds them useful is a conversation I'd like to have.
-
-**[designagent.io](https://designagent.io)** — consulting work and contact
-
-If you use these tools in your work, I'd genuinely like to hear about it.
-If you find gaps, have suggestions, or want to contribute a tool —
-open an issue or get in touch directly.
 
 ---
 
