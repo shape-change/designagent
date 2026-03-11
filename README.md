@@ -10,12 +10,9 @@ No platforms, or subscriptions, just better thinking and decision making.
 
 ## About
 
-Shape & Change works across service design, organisational change, and product strategy.
+These tools grew out of a platform discovery. Giving them away turned out to be a better idea.
 
-These tools grew out of a platform we were building. Giving them away turned out to be a better idea.
-If you use them and want to talk — or want someone in the room when it matters — shapechange.io
-
-**[shapechange.io](https://shapechange.io)** — talk to me about work and say hello
+**[shapechange.io](https://shapechange.io)** — talk to me about them and say hello!
 
 ---
 
