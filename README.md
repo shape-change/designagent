@@ -4,7 +4,7 @@
 before they commit.**
 
 Each tool is a Claude skill: install it once, use it in any conversation.
-No platform. No subscription. No login. Just better thinking.
+No platforms, or subscriptions, just better thinking and decision making.
 
 ---
 
