@@ -6,8 +6,6 @@ before they commit.**
 Each tool is a Claude skill: install it once, use it in any conversation.
 No platform. No subscription. No login. Just better thinking.
 
-I’ve spent time building, testing, and breaking them. I’ve iterated on them dozens of times—tweaking the prompts and the logic every time they missed a nuance or let a weak assumption slide past. They’ve been "stressed" as much as they "stress-test".
-
 ---
 
 ## About
@@ -25,7 +23,9 @@ If you use them and want to talk — or want someone in the room when it matters
 
 Have you ever worked on a project that fell apart because the foundation was shaky from day one? Humans are really good at solving symptoms instead of causes, mostly because we’re often too polite to admit when a "must-have" feature is actually a distraction or when the problem we're solving doesn't actually exist.
 
-Last winter, I was looking at this as a full platform with a subscription service, but with the rate of change in AI, that felt like the wrong move. Instead, I’ve re-built them as Claude Skills. You install them once, and they’re there to stress-test your thinking while you’re mid-conversation or just about to get started on a project.
+So, I decided to make some Claude Skills. The idea started out last December, when I was looking at this as a full platform with a subscription service, but with the rate of change in AI, that felt like the wrong move. I've bundled up the Skills as 'DesignAgent'.
+
+I’ve spent time building, testing, and breaking them. I’ve iterated on them, tweaking the prompts and the logic every time they missed a nuance or let a weak assumption slide past. They’ve been "stressed" as much as they "stress-test".
 
 ---
 
