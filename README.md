@@ -6,6 +6,8 @@ before they commit.**
 Each tool is a Claude skill: install it once, use it in any conversation.
 No platform. No subscription. No login. Just better thinking.
 
+I’ve spent time building, testing, and breaking them. I’ve iterated on them dozens of times—tweaking the prompts and the logic every time they missed a nuance or let a weak assumption slide past. They’ve been "stressed" as much as they "stress-test".
+
 ---
 
 ## About
