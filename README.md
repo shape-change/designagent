@@ -31,7 +31,7 @@ I’ve spent time building, testing, and breaking them. I’ve iterated on them,
 
 ## The toolkit
 
-Nine tools across five domains, designed to chain together.
+Nine Skills across four domains, designed to chain together.
 
 ### Framing
 
